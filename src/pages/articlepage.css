@@ -1,0 +1,22 @@
+.articlepage{
+    max-width: 700px;
+
+    
+    margin-left: 400px;
+    background-color: ;
+  }
+  .articlepage h1{
+    text-align: center;
+    text-shadow: #556b2f 2px solid;
+    color: black;
+  }
+  .articlepage h3{
+    text-align: center;
+    text-shadow: #556b2f 2px solid;
+    color:darkslateblue
+  }
+  .articlepage p{
+      border:wheat 2px solid;
+      padding: 20px;
+      background-color: lightyellow;
+  }

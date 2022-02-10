@@ -1,0 +1,41 @@
+.l{
+    text-decoration: none;
+    color: black;
+   
+  }
+  .articlelist h2{
+    text-align: left;
+    text-shadow: #556b2f 2px solid;
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-style: italic;
+  }
+  .articlelist h3{
+    text-align: left;
+    text-shadow: #556b2f 2px solid;
+    color:rgb(0, 0, 0);
+    font-family:sans-serif;
+    font-style: italic;
+  }
+  .articlelist{
+      border: rgb(0, 0, 0) 1px solid;
+      padding: 3px;
+
+  }
+  .articlelist button{
+    border: rgb(0, 0, 0) 1px solid;
+    padding: 10px;
+    margin: 5px;
+  
+    font-family: 'Times New Roman', Times, serif;
+    
+    width: 100px;
+    border-radius: 25%;
+    
+}
+.articlelist button:hover{
+
+    background-color:green;
+   
+    
+}
